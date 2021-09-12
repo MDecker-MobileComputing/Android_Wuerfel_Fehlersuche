@@ -6,7 +6,7 @@ Simple app simulating a dice as used for board games. The simulated dice is a st
 
 <br>
 
-**!!! Contains an error to be found as practive for an programming course – App will crash immediately after start !!!**
+**!!! Contains an error to be found as practice for an programming course – App will crash immediately after start !!!**
 
 <br>
 

@@ -27,7 +27,7 @@ public class MainActivity extends Activity implements OnClickListener {
     /** TextView-Element zur Anzeige der gewürfelten Zahl. */
     private TextView _zahlTextView = null;
 
-    /** Button um eine neue Zahl von 1-6 zu würfen. */
+    /** Button um eine neue Zahl von 1-6 zu würfeln. */
     private Button _wuerfelButton1 = null;
 
     /**

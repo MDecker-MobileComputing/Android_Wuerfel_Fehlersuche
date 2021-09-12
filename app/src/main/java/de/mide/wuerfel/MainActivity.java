@@ -11,7 +11,7 @@ import android.widget.TextView;
 import java.util.Random;
 
 /**
- * Fehlersuchaufgabe: App als Ersatz für einen echten Würfel.
+ * Fehlersuchaufgabe: App simuliert einen Würfel mit sechs Seiten.
  * <br><br>
  *
  * This project is licensed under the terms of the BSD 3-Clause License.

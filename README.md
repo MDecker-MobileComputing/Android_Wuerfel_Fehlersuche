@@ -6,7 +6,7 @@ Simple app simulating a dice as used for board games. The simulated dice is a st
 
 <br>
 
-**!!! Contains an error to be found as practice for an programming course – App will crash immediately after start !!!**
+**!!! Contains an error to be found as practice for a programming course – App will crash immediately after start !!!**
 
 <br>
 
@@ -24,4 +24,8 @@ Simple app simulating a dice as used for board games. The simulated dice is a st
 
 ## License ##
 
+<br>
+
 See the [LICENSE file](LICENSE.md) for license rights and limitations (BSD 3-Clause License).
+
+<br>

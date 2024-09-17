@@ -2,12 +2,10 @@
 
 <br>
 
-Simple app simulating a dice as used for board games. The simulated dice is a standard dice with six sides.
-
+Dieses Repo enthält eine einfache Android-App (native App mit Java), die einen Würfel simuliert, wie er bei Brettspielen verwendet wird. Der simulierte Würfel ist ein Standardwürfel mit sechs Seiten.
 <br>
 
-**!!! The app crashes on startup because it contains a bug; this bug is to be found as practice for a programming course !!!**
-
+**!!! Die App stürzt beim Start ab, weil sie einen Fehler enthält; dieser Fehler soll in einem Programmierkurs als Übung gefunden werden !!!**
 <br>
 
 ----

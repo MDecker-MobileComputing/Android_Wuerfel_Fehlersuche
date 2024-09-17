@@ -6,7 +6,7 @@ Simple app simulating a dice as used for board games. The simulated dice is a st
 
 <br>
 
-**!!! The app crashes on startup because it contains a bug to be found as practice for a programming course !!!**
+**!!! The app crashes on startup because it contains a bug; this bug is to be found as practice for a programming course !!!**
 
 <br>
 

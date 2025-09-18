@@ -2,7 +2,11 @@
 
 <br>
 
-Dieses Repo enthält eine einfache Android-App (native App mit Java), die einen Würfel mit sechs Seiten simuliert, wie er bei Brettspielen verwendet wird. Der simulierte Würfel ist ein Standardwürfel mit sechs Seiten.
+Dieses Repository enthält eine einfache Android-App (native App mit Java), die einen Würfel mit sechs Seiten simuliert.
+
+<br>
+
+**!!! Die App stürzt beim Start ab, weil sie einen Fehler enthält; dieser Fehler soll in einem Programmierkurs als Übung gefunden werden !!!**
 
 <br>
 

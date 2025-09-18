@@ -20,8 +20,8 @@ import java.util.Random;
 public class MainActivity extends Activity implements OnClickListener {
 
     /**
-     * Zufallsgenerator; die Methode {@code nextInt(obergrenze)} diese Objects erzeugt eine
-     * Zufallszahl zwischen Null und {@code obergrenze-1} (jeweils einschließlich).
+     * Zufallsgenerator; die Methode {@code nextInt(obergrenze)} diese Objekts erzeugt eine
+     * Zufallszahl zwischen 0 und {@code obergrenze-1} (jeweils einschließlich).
      */
     final private Random _random = new Random();
 
@@ -37,16 +37,16 @@ public class MainActivity extends Activity implements OnClickListener {
      * setzt Event-Handler-Objekt für Button.
      */
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    protected void onCreate( Bundle savedInstanceState ) {
 
-        super.onCreate(savedInstanceState);
+        super.onCreate( savedInstanceState );
 
-        _zahlTextView   = findViewById(R.id.zahlTextView);
-        _wuerfelButton1 = findViewById(R.id.wuerfelButton_1);
+        _zahlTextView   = findViewById( R.id.zahlTextView    );
+        _wuerfelButton1 = findViewById( R.id.wuerfelButton_1 );
 
-        setContentView(R.layout.activity_main);
+        setContentView( R.layout.activity_main );
 
-        _wuerfelButton1.setOnClickListener(this);
+        _wuerfelButton1.setOnClickListener( this );
     }
 
 
@@ -56,12 +56,12 @@ public class MainActivity extends Activity implements OnClickListener {
      * @param view  UI-Element, welches das Event ausgelöst hat.
      */
     @Override
-    public void onClick(View view) {
+    public void onClick( View view ) {
 
         // Zufallszahl zwischen 1..6 erzeugen (normaler Würfel)
-        int zufallszahl = _random.nextInt(6) + 1;
+        int zufallszahl = _random.nextInt( 6 ) + 1;
 
-        _zahlTextView.setText(zufallszahl + "");
+        _zahlTextView.setText( zufallszahl + "" );
     }
 
 }
